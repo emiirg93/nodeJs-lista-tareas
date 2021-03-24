@@ -6,8 +6,8 @@ Aplicación de tareas en consola de nodeJs.
 Te permite : 
 * Crear tareas
 * Listar tareas
-* Listar completadas
-* Listar pendientes
+* Listar tareas completadas
+* Listar tareas pendientes
 * Completar tareas
 * Borrar tarea
 
