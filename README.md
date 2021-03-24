@@ -1,7 +1,7 @@
 # nodeJs-lista-tareas
 Aplicación de tareas en consola de nodeJs.
 
-#CRUD
+# CRUD
 
 Te permite : 
 * Crear tareas
@@ -11,7 +11,7 @@ Te permite :
 * Completar tareas
 * Borrar tarea
 
-Dependencias usadas : 
-inquirer
-colors
+# Dependencias usadas : 
+* inquirer
+* colors
 
