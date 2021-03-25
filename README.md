@@ -1,7 +1,7 @@
 # nodeJs-lista-tareas
 Aplicación de tareas en consola de nodeJs.
 
-![Imagen de la aplicacion](https://github.com/emiirg93/nodeJs-lista-tareas/blob/master/assets/img-apk-consola.PNG)
+![Imagen de la aplicación](https://github.com/emiirg93/nodeJs-lista-tareas/blob/master/assets/img-apk-consola.PNG)
 
 # CRUD
 
